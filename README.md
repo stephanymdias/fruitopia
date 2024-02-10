@@ -6,4 +6,5 @@ https://fruitopia-three.vercel.app/
 
 # IMAGEM
 
-![Uploading image.png…]()
+![image](https://github.com/stephanymdias/fruitopia/assets/130869859/aa5dfbb0-4ed6-4a64-bae7-1620400ad3fb)
+
